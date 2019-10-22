@@ -1,19 +1,15 @@
 {
-    "name": "reliese/laravel",
+    "name": "mediactive-digital/laravel",
     "description": "Reliese Components for Laravel Framework code generation.",
     "keywords": ["reliese", "laravel"],
-    "homepage": "http://cristianllanos.com",
     "support": {
-        "issues": "https://github.com/reliese/laravel/issues",
-        "source": "https://github.com/reliese/laravel"
+        "issues": "https://github.com/mediactive-digital/laravel/issues",
+        "source": "https://github.com/mediactive-digital/laravel"
     },
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Cristian Llanos",
-            "email": "cristianllanos@outlook.com"
-        }
-    ],
+    "authors": [{
+		"name": "Mediactive Digital"
+	}],
     "require": {
         "php": ">=7",
         "doctrine/dbal": "~2.5",
